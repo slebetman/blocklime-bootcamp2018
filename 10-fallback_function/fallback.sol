@@ -6,6 +6,7 @@ pragma solidity ^0.4.10;
  * This is dev for Blocklime's Bootcamp only
  * Use for Education purpose only
  *
+ * copyright 2018 Blocklime Technologies Sdn. Bhd.
  */
 
 contract Test {
